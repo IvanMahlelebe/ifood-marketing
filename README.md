@@ -20,3 +20,5 @@ As a precursor to this upcoming campaign, a pilot campaign was carried out. The 
 - [ ] **Customer Segmentation** -  The CMO is interested in understanding the characteristic feature of customers that are willing to buy this gadget, hence, a segmentation model for customer behaviours will be useful.
 - [ ] **A Classification Model** - The goal is to make the next campaign more profitable. Thus, this model should be able to predict customer behaviour as it will be applied to the entire customer base so that the company can cherry pick customers that are most likely to purchase the offer while leaving out non-respondents.
 - [ ] **Final Business Presentation** - Compile a presentation for the non-technical marketing team and the CMO, communicating important information for their understanding and decision-making.
+
+# Insights
