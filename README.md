@@ -22,3 +22,7 @@ As a precursor to this upcoming campaign, a pilot campaign was carried out. The 
 - [ ] **Final Business Presentation** - Compile a presentation for the non-technical marketing team and the CMO, communicating important information for their understanding and decision-making.
 
 # Insights
+
+## Response Analysis
+After the business had ran multiple campaigns(6 of them) on the same set of customers over time, we learn that the response rate has been consistent at 15% as we can see from the following graph:
+![Alt Text](overall_performance.png)
